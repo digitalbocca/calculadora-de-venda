@@ -1,0 +1,23 @@
+body {
+  min-height: 100vh;
+
+  background: #F09819;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #EDDE5D, #F09819);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #EDDE5D, #F09819); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  background: #1A2980;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #26D0CE, #1A2980);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #26D0CE, #1A2980); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 5px;
+}
+
+.label-white {
+  background-color: #fff;
+  color: #1e6b9f;
+  font-weight: bold;
+}

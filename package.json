@@ -1,0 +1,22 @@
+{
+  "name": "calculadora-de-venda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "standard": "^17.0.0",
+    "vite": "^3.2.2"
+  },
+  "dependencies": {
+    "vue": "^3.2.41",
+    "vue-currency-input": "^3.0.2"
+  }
+}
